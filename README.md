@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)](https://iSaqibShafique.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*p_6i_l2x2UEanX82PnHjXg.png)](https://iSaqibShafique.io)
 
 <h1 align="center">👋 Hey there! I'm Saqib Shafique</h1>
 <h3 align="center">A passionate Swift & Flutter developer from Pakistan 🇵🇰</h3>
